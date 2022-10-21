@@ -6,17 +6,20 @@ body{
 .video{
     display:flex;
     flex-wrap: wrap;
-    max-width: 1100px;
-    margin: auto;;
+    max-width: 68.75rem;
+    margin: auto;
     justify-content: center;
     align-items: center;
+    width: 35rem;
+    height: 19.688rem;
 }
 
-.logo{
+.logo img{
     display:flex;
     flex-wrap: wrap;
-    max-width: 1100px;
-    margin: auto;;
+    max-width: 8.75rem;
+    margin: auto;
     justify-content: center;
     align-items: center;
+    width:11.25rem ;
 }
