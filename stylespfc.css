@@ -1,0 +1,22 @@
+body{
+    background-image:url("imagens/morumbi.jpg");
+    background-size: cover;
+}
+
+.video{
+    display:flex;
+    flex-wrap: wrap;
+    max-width: 1100px;
+    margin: auto;;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo{
+    display:flex;
+    flex-wrap: wrap;
+    max-width: 1100px;
+    margin: auto;;
+    justify-content: center;
+    align-items: center;
+}
